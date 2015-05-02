@@ -6,8 +6,6 @@
  
  
 <jsp:include page="app/page/include/header.jsp"/>
-___________________________________________------------------------------------------------------
-
 
 	<!-- Navigation -->
     <nav class="navbar navbar-inverse" role="navigation">
